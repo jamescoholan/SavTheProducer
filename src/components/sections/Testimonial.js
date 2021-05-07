@@ -41,7 +41,7 @@ const Testimonial = ({
 
   const sectionHeader = {
     title: "What People are Saying",
-    paragraph: "Previous Clients.",
+    paragraph: "Previous Clients",
   };
 
   return (

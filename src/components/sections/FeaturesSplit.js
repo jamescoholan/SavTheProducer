@@ -82,7 +82,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("/Users/jamescoholan/Desktop/Production Code/SavTheProducer/src/assets/images/pexels-suvan-chowdhury-144429.jpg")}
+                  src={require("/Users/jamescoholan/Desktop/Production Code/SavTheProducer/src/assets/images/Ableton.png")}
                   alt="Features split 01"
                   width={528}
                   height={396}
@@ -112,7 +112,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("/Users/jamescoholan/Desktop/Production Code/SavTheProducer/src/assets/images/Ableton.png")}
+                  src={require("/Users/jamescoholan/Desktop/Production Code/SavTheProducer/src/assets/images/screely-1620365703897.png")}
                   alt="Features split 02"
                   width={528}
                   height={396}
@@ -142,7 +142,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("/Users/jamescoholan/Desktop/Production Code/SavTheProducer/src/assets/images/1.jpg")}
+                  src={require("/Users/jamescoholan/Desktop/Production Code/SavTheProducer/src/assets/images/screely-1620365749297.png")}
                   alt="Features split 03"
                   width={528}
                   height={396}

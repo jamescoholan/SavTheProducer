@@ -43,7 +43,7 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: "Bring your Songs to Life",
+    title: "Bring Your Songs to Life",
     paragraph: "With Expert Music Production for Chart Worthy Releases",
   };
 
