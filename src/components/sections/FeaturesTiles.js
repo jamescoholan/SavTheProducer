@@ -43,10 +43,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title:
-      "Pair the right artists with the right promoters and venues at the right time. Creating magic cultural movements. ",
-    paragraph:
-      "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.",
+    title: "Bring your Songs to Life",
+    paragraph: "With Expert Music Production for Chart Worthy Releases",
   };
 
   return (
@@ -68,11 +66,9 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">Robust Workflow</h4>
+                  <h4 className="mt-0 mb-8">Your Music</h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat.
+                    Take your songwriting and get it professionally produced.
                   </p>
                 </div>
               </div>
@@ -94,11 +90,9 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">Robust Workflow</h4>
+                  <h4 className="mt-0 mb-8">Any Style</h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat.
+                    Electronic, Pop, Hip Hop. Whatever you want.
                   </p>
                 </div>
               </div>
@@ -120,18 +114,14 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">Robust Workflow</h4>
-                  <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat.
-                  </p>
+                  <h4 className="mt-0 mb-8">Exactly How You Like</h4>
+                  <p className="m-0 text-sm">Chart worthy Songs</p>
                 </div>
               </div>
             </div>
 
             <div className="tiles-item reveal-from-bottom">
-              <div className="tiles-item-inner">
+              {/* <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
@@ -150,14 +140,14 @@ const FeaturesTiles = ({
                     occaecat cupidatat.
                   </p>
                 </div>
-              </div>
+              </div> */}
             </div>
 
             <div
               className="tiles-item reveal-from-bottom"
               data-reveal-delay="200"
             >
-              <div className="tiles-item-inner">
+              {/* <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
@@ -176,14 +166,14 @@ const FeaturesTiles = ({
                     occaecat cupidatat.
                   </p>
                 </div>
-              </div>
+              </div> */}
             </div>
 
             <div
               className="tiles-item reveal-from-bottom"
               data-reveal-delay="400"
             >
-              <div className="tiles-item-inner">
+              {/* <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
@@ -202,7 +192,7 @@ const FeaturesTiles = ({
                     occaecat cupidatat.
                   </p>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

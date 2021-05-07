@@ -60,14 +60,35 @@ const Hero = ({
               className="mt-0 mb-16 reveal-from-bottom"
               data-reveal-delay="200"
             >
-              Collo <span className="text-color-primary">sieum</span>
+              <Image
+                className="has-shadow"
+                src={require("/Users/jamescoholan/Desktop/Production Code/SavTheProducer/src/assets/images/Sav The Producer.png")}
+                alt="Hero"
+                width={896}
+                height={504}
+              />
+              {/* <Image
+                className="has-shadow"
+                src={require("/Users/jamescoholan/Desktop/Production Code/SavTheProducer/src/assets/images/Savtheproducer2.png")}
+                alt="Hero"
+                width={896}
+                height={504}
+              />
+              <Image
+                className="has-shadow"
+                src={require("/Users/jamescoholan/Desktop/Production Code/SavTheProducer/src/assets/images/Savtheproducer3.png")}
+                alt="Hero"
+                width={896}
+                height={504}
+              /> */}
+              {/* Sav <span className="text-color-primary">The Producer</span> */}
             </h1>
             <div className="container-xs">
               <p
                 className="m-0 mb-32 reveal-from-bottom"
                 data-reveal-delay="400"
               >
-                Music Booking Platform.
+                Producing the Best Music For You
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
@@ -75,9 +96,9 @@ const Hero = ({
                     tag="a"
                     color="primary"
                     wideMobile
-                    href="https://www.syb-media.com/"
+                    href="https://open.spotify.com/artist/7lQsPgl572B3J9tARp1N66?si=NtYWdb4ARW6dT15Da0M_jw"
                   >
-                    Startups
+                    Music
                   </Button>
                   <Button
                     tag="a"
@@ -85,7 +106,7 @@ const Hero = ({
                     wideMobile
                     href="https://jamescoholan.medium.com/"
                   >
-                    Articles
+                    Instagram
                   </Button>
                 </ButtonGroup>
               </div>
@@ -104,7 +125,7 @@ const Hero = ({
             >
               <Image
                 className="has-shadow"
-                src={require("./../../assets/images/video-placeholder.jpg")}
+                src={require("/Users/jamescoholan/Desktop/Production Code/SavTheProducer/src/assets/images/SavTheProducer.png")}
                 alt="Hero"
                 width={896}
                 height={504}
