@@ -55,7 +55,7 @@ const Cta = ({
               label="Subscribe"
               labelHidden
               hasIcon="right"
-              placeholder="Your best email"
+              placeholder="email"
             >
               <svg width="16" height="12" xmlns="http://www.w3.org/2000/svg">
                 <path
