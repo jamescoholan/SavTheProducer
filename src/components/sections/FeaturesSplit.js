@@ -49,9 +49,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: "Exactly the Right Sounds",
-    paragraph:
-      "Take Your Music Career to the Next Level with Professional Music",
+    title: "Exactly the Right Sound",
+    paragraph: "Three Time Hype Machine Chart Topper",
   };
 
   return (
@@ -68,10 +67,8 @@ const FeaturesSplit = ({
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
                 <h3 className="mt-0 mb-12">Record</h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua
-                  — Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat.
+                  Take Your Music Career to the Next Level with Professional
+                  Music
                 </p>
               </div>
               <div
@@ -97,12 +94,7 @@ const FeaturesSplit = ({
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
                 <h3 className="mt-0 mb-12">Produce</h3>
-                <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua
-                  — Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat.
-                </p>
+                <p className="m-0">Over 50 published pieces of music.</p>
               </div>
               <div
                 className={classNames(
@@ -127,12 +119,7 @@ const FeaturesSplit = ({
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
                 <h3 className="mt-0 mb-12">Mix & Master</h3>
-                <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua
-                  — Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat.
-                </p>
+                <p className="m-0">Professional Grade Production</p>
               </div>
               <div
                 className={classNames(
